@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="360"/>
 </p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/muhamad-ramdani-hidayatullah">
