@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="360"/>
 </p>
-<p id="badges" align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/muhamad-ramdani-hidayatullah">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,18 +13,18 @@
   </a>
 </p>
 
-<div class="repo-analysis">
+<p align="center">
     <img src="https://img.shields.io/github/stars/mrh275?style=social" alt="Users Stars"/>
     <img src="https://img.shields.io/github/followers/mrh275?style=social" alt="Users Followers"/>
-</div>
+</p>
 
-## :wave: Hi! I'm Dani
+# :wave: Hi! I'm Dani
 
----
-
-<p>
+<p align="center">
     I'm Fullstack Web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align:middle"> from <img src="https://em-content.zobj.net/thumbs/160/sony/336/flag-indonesia_1f1ee-1f1e9.png" style="vertical-align:middle; width:27px;"/> West Java, Indonesia.
 </p>
+
+##
 
 ![Muhamad Ramdani Hidayatullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrh275&show_icons=true&theme=radical)
 
