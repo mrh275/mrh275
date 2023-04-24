@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" style="display:block;margin:0 auto;" width="100px"/>
+<img align="center" src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" style="display:block;margin:0 auto;" width="100px"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/muhamad-ramdani-hidayatullah">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
