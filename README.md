@@ -29,7 +29,7 @@
 ![Muhamad Ramdani Hidayatullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrh275&show_icons=true&theme=radical)
 
 - :telescope: Currently working at SMA Negeri 1 Rawamerta, one of senior high school in West Java, Indonesia.
-- :seedling: Currently learning about Mobile Developing and UI/UX at [Bangkit Academy 2023](https://www.linkedin.com/company/bangkit-academy).
+- :seedling: Graduated from Mobile Developer Learning Path at [Bangkit Academy 2023](https://www.linkedin.com/company/bangkit-academy).
 - :zap: I'm a Genshin Impact player, Nahida Supremacy :triumph:
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-ramdani-hidayatullah)
 
