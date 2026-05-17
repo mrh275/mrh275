@@ -18,7 +18,7 @@
 # :wave: Hi! I'm Dani
 
 <p align="center">
-    I'm an IT Professional focused on Fullstack Web Development, IT Support, Network Engineering, and Server Administration. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align:middle"> I'am from <img src="https://em-content.zobj.net/thumbs/160/sony/336/flag-indonesia_1f1ee-1f1e9.png" style="vertical-align:middle; width:27px;"/> West Java, Indonesia.
+    I am an IT Professional focused on Fullstack Web Development, IT Support, Network Engineering, and Server Administration. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align:middle"> I am from <img src="https://em-content.zobj.net/thumbs/160/sony/336/flag-indonesia_1f1ee-1f1e9.png" style="vertical-align:middle; width:27px;"/> West Java, Indonesia.
 </p>
 
 ##
