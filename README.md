@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/followers/mrh275?style=social" alt="Users Followers"/>
 </p>
 
-# :wave: Hi! I'm Dani
+# 👋 Hi! I'm Dani
 
 <p align="center">
     I am an IT Professional focused on Fullstack Web Development, IT Support, Network Engineering, and Server Administration. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align:middle"><br/>I am from <img src="https://em-content.zobj.net/thumbs/160/sony/336/flag-indonesia_1f1ee-1f1e9.png" style="vertical-align:middle; width:27px;"/> West Java, Indonesia.
@@ -25,6 +25,6 @@
 
 ![Muhamad Ramdani Hidayatullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrh275&show_icons=true&theme=radical)
 
-- :telescope: Currently working at one of public senior high school in West Java, Indonesia.
-- :video_game: I play Genshin Impact for fun and stress relief :relieved:
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-ramdani-hidayatullah)
+- 💼 Currently working at one of public senior high school in West Java, Indonesia.
+- 🎮 I play Genshin Impact for fun and stress relief 😌
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-ramdani-hidayatullah)
