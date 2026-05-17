@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/muhamad-ramdani-hidayatullah">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCpjRwqnzSINBcrkQjVXKrwA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://instagram.com/muhamadramdani275">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -21,7 +18,7 @@
 # :wave: Hi! I'm Dani
 
 <p align="center">
-    I'm Fullstack Web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align:middle"> from <img src="https://em-content.zobj.net/thumbs/160/sony/336/flag-indonesia_1f1ee-1f1e9.png" style="vertical-align:middle; width:27px;"/> West Java, Indonesia.
+    I'm an IT Professional focused on Fullstack Web Development, IT Support, Network Engineering, and Server Administration. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align:middle"> I'am from <img src="https://em-content.zobj.net/thumbs/160/sony/336/flag-indonesia_1f1ee-1f1e9.png" style="vertical-align:middle; width:27px;"/> West Java, Indonesia.
 </p>
 
 ##
