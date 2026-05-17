@@ -18,18 +18,13 @@
 # :wave: Hi! I'm Dani
 
 <p align="center">
-    I am an IT Professional focused on Fullstack Web Development, IT Support, Network Engineering, and Server Administration. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align:middle"> I am from <img src="https://em-content.zobj.net/thumbs/160/sony/336/flag-indonesia_1f1ee-1f1e9.png" style="vertical-align:middle; width:27px;"/> West Java, Indonesia.
+    I am an IT Professional focused on Fullstack Web Development, IT Support, Network Engineering, and Server Administration. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="vertical-align:middle"><br/>I am from <img src="https://em-content.zobj.net/thumbs/160/sony/336/flag-indonesia_1f1ee-1f1e9.png" style="vertical-align:middle; width:27px;"/> West Java, Indonesia.
 </p>
 
 ##
 
 ![Muhamad Ramdani Hidayatullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrh275&show_icons=true&theme=radical)
 
-- :telescope: Currently working at SMA Negeri 1 Rawamerta, one of senior high school in West Java, Indonesia.
-- :seedling: Graduated from Mobile Developer Learning Path at [Bangkit Academy 2023](https://www.linkedin.com/company/bangkit-academy).
-- :zap: I'm a Genshin Impact player, Nahida Supremacy :triumph:
+- :telescope: Currently working at one of public senior high school in West Java, Indonesia.
+- :video_game: I play Genshin Impact for fun and stress relief :relieved:
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-ramdani-hidayatullah)
-
-## Tech Stacks
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
